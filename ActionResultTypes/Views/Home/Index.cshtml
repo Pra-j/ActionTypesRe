@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+<div class="text-center">
+    <h1>Data Passing Examples</h1>
+    <p>ViewBag: @ViewBag.Message</p>
+    <p>ViewData: @ViewData["Message"]</p>
+    <a href="/Home/Privacy">Go to Another Action</a>
+</div>

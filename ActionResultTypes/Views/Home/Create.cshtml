@@ -1,0 +1,40 @@
+﻿@model ActionResultTypes.ViewModels.ProductViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Product</title>
+</head>
+<body>
+    <h1>Create a New Product</h1>
+
+    <form asp-action="Create" method="post">
+        <div>
+            <label asp-for="Product.Name"></label>
+            <input asp-for="Product.Name" class="form-control" />
+            <span asp-validation-for="Product.Name" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="Product.Price"></label>
+            <input asp-for="Product.Price" class="form-control" />
+            <span asp-validation-for="Product.Price" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="Product.Category"></label>
+            <select asp-for="Product.Category" asp-items="@(new SelectList(Model.Categories))" class="form-control">
+                <option value="">-- Select Category --</option>
+            </select>
+            <span asp-validation-for="Product.Category" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+
+    @* Include client-side validation *@
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>
