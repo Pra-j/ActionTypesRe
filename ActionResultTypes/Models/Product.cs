@@ -1,5 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
+//Square brackets are model anotations. 
+
 namespace ActionResultTypes.Models
 {
     public class Product
@@ -9,6 +11,7 @@ namespace ActionResultTypes.Models
 
         [Required(ErrorMessage = "Product Name is required.")]
         [StringLength(100, ErrorMessage = "Product Name cannot exceed 100 characters.")]
+
         public string Name { get; set; }
 
         [Required(ErrorMessage = "Price is required.")]

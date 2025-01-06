@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\actionresulttypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\actionresulttypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\wwwroot\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\wwwroot\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|c:\\users\\girman\\source\\repos\\actionresulttypes\\actionresulttypes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48E5981-F763-4FD4-B782-16F6AEC5310E}|ActionResultTypes\\ActionResultTypes.csproj|solutionrelative:actionresulttypes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,148 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\ViewModels\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "ActionResultTypes\\ViewModels\\ProductViewModel.cs",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\ViewModels\\ProductViewModel.cs",
-              "RelativeToolTip": "ActionResultTypes\\ViewModels\\ProductViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:35:56.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ActionResultTypes",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\ActionResultTypes.csproj",
-              "RelativeDocumentMoniker": "ActionResultTypes\\ActionResultTypes.csproj",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\ActionResultTypes.csproj",
-              "RelativeToolTip": "ActionResultTypes\\ActionResultTypes.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-24T01:34:11.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Success.cshtml",
-              "RelativeDocumentMoniker": "ActionResultTypes\\Views\\Home\\Success.cshtml",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Success.cshtml",
-              "RelativeToolTip": "ActionResultTypes\\Views\\Home\\Success.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T01:24:43.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "ActionResultTypes\\Views\\Home\\Create.cshtml",
               "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "ActionResultTypes\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T01:24:08.676Z",
+              "WhenOpened": "2025-01-02T02:17:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ActionResultTypes\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Models\\Product.cs",
+              "RelativeToolTip": "ActionResultTypes\\Models\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:40:52.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ActionResultTypes\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "ActionResultTypes\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:40:26.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ActionResultTypes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ActionResultTypes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:44:37.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ActionResultTypes\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ActionResultTypes\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAawC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T01:00:26.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ActionResultTypes\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ActionResultTypes\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T01:37:48.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ActionResultTypes\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Models\\Product.cs",
-              "RelativeToolTip": "ActionResultTypes\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:38:25.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ActionResultTypes\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "ActionResultTypes\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-24T01:28:26.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Demo\\Index.cshtml",
-              "RelativeDocumentMoniker": "ActionResultTypes\\Views\\Demo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Views\\Demo\\Index.cshtml",
-              "RelativeToolTip": "ActionResultTypes\\Views\\Demo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T01:30:07.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Sample.txt",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\wwwroot\\Sample.txt",
-              "RelativeDocumentMoniker": "ActionResultTypes\\wwwroot\\Sample.txt",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\wwwroot\\Sample.txt",
-              "RelativeToolTip": "ActionResultTypes\\wwwroot\\Sample.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-20T01:49:14.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DemoController.cs",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Controllers\\DemoController.cs",
-              "RelativeDocumentMoniker": "ActionResultTypes\\Controllers\\DemoController.cs",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\ActionResultTypes\\ActionResultTypes\\Controllers\\DemoController.cs",
-              "RelativeToolTip": "ActionResultTypes\\Controllers\\DemoController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAApwBcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T01:29:51.011Z",
               "EditorCaption": ""
             }
           ]

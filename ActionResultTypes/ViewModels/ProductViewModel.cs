@@ -5,7 +5,8 @@ namespace ActionResultTypes.ViewModels
 {
     public class ProductViewModel
     {
-    public Product Product {get; set;}
-        public List<string> Categories { get; set; } = new List<string> { "Electronics", "Books", "Clothin", "Home Appliancesj" };
+        public Product Product { get; set; }
+        public List<string> Categories { get; set; } = new List<string> { "Electronics", "Books", "Clothin", "Home Appliances", "Slave" };
     }
 }
+

@@ -39,3 +39,6 @@ C:\Users\girman\source\repos\ActionResultTypes\ActionResultTypes\obj\Debug\netco
 C:\Users\girman\source\repos\ActionResultTypes\ActionResultTypes\obj\Debug\netcoreapp3.1\ActionResultTypes.genruntimeconfig.cache
 C:\Users\girman\source\repos\ActionResultTypes\ActionResultTypes\obj\Debug\netcoreapp3.1\ActionRe.DB2DDBD1.Up2Date
 C:\Users\girman\source\repos\ActionResultTypes\ActionResultTypes\obj\Debug\netcoreapp3.1\Razor\Views\Demo\index.cshtml.g.cs
+C:\Users\girman\source\repos\ActionResultTypes\ActionResultTypes\obj\Debug\netcoreapp3.1\ActionResultTypes.sourcelink.json
+C:\Users\girman\source\repos\ActionResultTypes\ActionResultTypes\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\girman\source\repos\ActionResultTypes\ActionResultTypes\obj\Debug\netcoreapp3.1\Razor\Views\Home\Success.cshtml.g.cs

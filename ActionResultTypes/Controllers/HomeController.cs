@@ -22,8 +22,12 @@ namespace ActionResultTypes.Controllers
 
         public IActionResult Privacy()
         {
-            string message = TempData["Message"] as string;
-            ViewBag.TempMessage = message;
+            //ViewBag.Name = "My name is prajwal khatri";
+            //ViewData["Message"] = "I am groot in privacypage";
+
+
+            //string message = TempData["Message"] as string;
+            //ViewBag.TempMessage = message;
 
             return View();
         }
@@ -48,7 +52,7 @@ namespace ActionResultTypes.Controllers
                 return RedirectToAction("Success");
             }
 
-            viewModel.Categories = new List<string> { "Electronics", "Books", "Clothing", "Home Appliances" };
+            viewModel.Categories = new List<string> { "Electronics", "Books", "Clothing", "Home Appliances", "Slave" };
             return View(viewModel);
         }
 

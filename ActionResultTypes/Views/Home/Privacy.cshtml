@@ -1,7 +1,12 @@
-﻿@{
-    ViewData["Title"] = "Privacy Policy";
-}
-<h1>@ViewData["Title"]</h1>
+﻿
+<p>
+    ViewBag: @ViewBag.Name;
+</p>
+<p>
+    ViewData: @ViewData["Message"];
+</p>
+
 
 <h1>TempData Example</h1>
+<p>Temp Message : @TempData["Message"]</p>
 <p>TempData: @ViewBag.TempMessage</p>
